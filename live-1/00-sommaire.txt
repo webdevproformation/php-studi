@@ -1,0 +1,32 @@
+Live 1
+
+Les bases du langage PHP - présentation du langage PHP - niveau débutant
+
+Au cours de ce Live, nous allons présenter comment créer nos premiers script PHP dans des pages HTML et comment les debugger.
+
+Nous verrons ensemble :
+
+Set up :  Visual Studio Code / XAMPP / php.ini / module xdebug 
+
+Langage Client / Langage Serveur 
+
+balise PHP 
+- via une balise <?php ?>
+- via la balise <?= ?>
+
+Debugger un script PHP :
+- echo 
+- var_dump()
+- print_r() 
+
+Premier script : "Hello World !"
+
+A l'issue de ce Live, vous connaîtrez les principaux concepts pour créer un script PHP et le debugger
+
+Pré-requis : connaître les bases de PHP
+
+// l'ensemble des notes / exemples réalisés pendant le live 
+// https://github.com/webdevproformation/php-studi
+
+// présenter => jeter un coup toutes les 15 min des questions sur le tchat du live 
+

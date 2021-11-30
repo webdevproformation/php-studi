@@ -1,0 +1,101 @@
+PHP => Langage SERVER 
+
+PHP exécuté sur une machine distante par rapport au client 
+
+Facebook => client (logiciel Chrome / Firefox ) => requête HTTP 
+            https://facebook.com 
+
+Serveur => exécuter du code PHP 
+Serveur répond en retournant du langage CLIENT HTML / CSS / JAVASCRIPT 
+
+logiciel Chrome / Firefox reçoit les informations => mettre en forme 
+
+// https://github.com/webdevproformation/php-studi
+
+// si je veux écrire du PHP => j'ai besoin OBLIGATOIREMENT d'avoir un SERVEUR pour pouvoir écrire et exécuter du PHP 
+
+// logiciel GRATUIT et open source => SERVEUR 
+
+// XAMPP => Cross Apache MySQL PHP Perl  => https://www.apachefriends.org/fr/index.html
+// WAMP  => Window Apache MySQL PHP => https://www.wampserver.com/
+// MAMP  => MacOS Apache MySQL PHP => https://www.mamp.info/fr/mamp/windows/
+// EasyPHP  =>  https://www.easyphp.org/
+// LAMP  => Linux Apache MySQL PHP => 
+
+// en ligne de commande : 
+sudo apt-get update
+sudo apt install apache2 php libapache2-mod-php mysql-server php-mysql
+sudo mkdir /var/www/html/test
+whoami 
+
+sudo chown malik:malik /var/www/html/test
+sudo /etc/init.d/apache2 restart 
+
+http://localhost/test
+
+// panneau de gestion de votre serveur 
+// dans le serveur XAMPP / MAMP .... => 
+// SERVICES => démarrer au minimun le service Apache pour faire fonctionner du PHP 
+// MySQL 
+
+Armandine BARGE
+=> linux 
+
+// sur PHP => fichier de configuration (donner des Directives / instructions ) au langage PHP
+// pour fonctionner 
+// dès que vous lancer votre serveur = Apache va chercher une fichier php.ini 
+// donner l'ensemble des modules à charger sur la langage PHP 
+
+// 03-php-ini.php
+
+<?php phpinfo() ;
+
+donner des informations essentielles sur COMMENT le langage PHP que vous allez utiliser fonctionne 
+
+ouvrir un navigateur 
+
+appeler le serveur local que j'ai installé => adresse spéciale 
+facebook.com 
+
+http://localhost/php/live-1/03-php-ini.php
+
+// 
+
+Loaded Configuration File 	C:\xampp\php\php.ini 
+
+/*
+
+Marek CHRZESTEK
+19:27
+
+Cela veut dire qu'à chaque début de projet il faut initier ce fichier avec ce petit bout de code ?
+
+*/
+
+php.ini 
+
+display_errors = On
+html_errors = On
+https://webdevpro.net/xampp-visual-studio-et-le-module-php-xdebug/
+
+chaque serveur XAMPP / MAMP / LAMP / EasyPHP 
+
+redémarrer le serveur 
+
+// php storm => outil pour coder 
+// commande en php 
+// Visual Studio Code 
+
+sql = php, et js?
+
+3 langages différents 
+
+PHP => langage Serveur => exécuté par apache 
+js => javascript langage client => exécuté par firefox / chrome / Nodejs 
+sql => DANS PHP tu vas pouvoir écrire du SQL 
+langage qui permet de manipuler une base de données 
+
+sql utiliser DANS du javascript 
+
+
+

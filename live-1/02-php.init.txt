@@ -1,0 +1,3 @@
+display_errors = On
+html_errors = On
+https://webdevpro.net/xampp-visual-studio-et-le-module-php-xdebug/

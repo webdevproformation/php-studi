@@ -1,0 +1,22 @@
+création du langage en 1994 par Rasmus Lerdorf pour son site web
+
+c'est à l'origine une bibliothèque C utilisé pour conserver une trace des visiteurs venant consulter son CV
+
+un an plus tard, il décide de rendre publique son code
+
+En 1997, deux étudiants , Andi Gutmans et Zeev Suraski, redéveloppent le coeur de PHP aboutissant à la version 3 du langage => version PHP 3 
+
+La version 7 du langage est disponible en décembre 2015
+
+La version 8 est prévue pour fin 2020 => la version actuelle => PHP 8 
+
+PHP est devenu le langage de programmation web côté serveur le plus utilisé depuis plusieurs années
+
+=> 80% des sites sur internet utilisent ce langage 
+
+Des sites comme Facebook, Wikipedia, Wordpress , Drupal, Prestashop, Joomla utilisent PHP
+
+=> Framework utilisent aussi PHP => Symfony et Laravel 
+
+---------------------- 
+

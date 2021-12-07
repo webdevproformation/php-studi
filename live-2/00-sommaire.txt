@@ -1,0 +1,24 @@
+Live 2
+
+Les bases du langage PHP - créer une variable et les 5 types de bases - niveau débutant
+
+Au cours de ce Live, nous allons présenter comment créer une variable et les 5 principaux types de variables qui existent :
+
+Nous verrons ensemble :
+- Comment créer des variables $
+- créer des constantes via define()
+
+- les 5 grand types de variables 
+Types primitifs :
+1 string  avec guillemets / avec apostrophes
+2 number : integer / float
+3 boolean
+
+Types scalaires :
+4 tableau / array 
+  tableaux indexés / tableaux associatifs
+5 class et objets 
+
+Autres types :
+- numeric string 
+- null

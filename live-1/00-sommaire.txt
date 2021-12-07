@@ -30,3 +30,5 @@ Pré-requis : connaître les bases de PHP
 
 // présenter => jeter un coup toutes les 15 min des questions sur le tchat du live 
 
+
+

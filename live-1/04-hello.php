@@ -16,3 +16,7 @@
 <!-- version raccourci -->
 
 <?= "Bonjour 2 tout le monde !" ; ?>
+
+<?php echo "bye bye" ;
+
+// xdebug est une extension php

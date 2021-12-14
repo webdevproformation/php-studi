@@ -1,0 +1,27 @@
+Live 3
+
+Les bases du langage PHP - opérations sur les string et number - niveau débutant
+
+Au cours de ce Live, nous allons présenter les principales opérations que l'on peut effectuer avec des variables de type string et number
+
+Nous verrons ensemble :
+
+Comment effectuer des opérations sur des variables stockants des number :
+- calcul de base : addition / soustraction / division / multiplication
+- autres calcul : reste entier / puissance
+
+Les Opérateurs unaires sur les variables de type number :
+- += -= *= /=
+- ++ -- 
+
+Comment effectuer des opérations sur des variables stockants des strings :
+- concaténation : 
+  - avec l'opérateur + et les guillemets ou les apostrophes
+  - les variables PHP directement dans les guillemets
+
+A l'issue de ce Live, vous connaîtrez les calculs de base sur des string et des number (integer / float)
+
+Pré-requis : connaître les bases de PHP
+
+https://github.com/webdevproformation/php-studi
+

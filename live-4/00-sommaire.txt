@@ -1,0 +1,34 @@
+Live 4
+
+https://github.com/webdevproformation/php-studi
+
+primitives :
+chiffre => int float
+texte => string 
+
+Les bases du langage PHP - opérations sur les boolean et structures conditionnelles - niveau débutant
+
+Au cours de ce Live, nous allons présenter les principales opérations que l'on peut effectuer avec des variables de type boolean et présenter les structures conditionnelles
+
+Nous verrons ensemble :
+- calcul boolean et structures conditionnelles
+- Effectuer des opérations sur des variables stockant des boolean
+- les opérateurs de comparaison : > < >= <= == != === !==
+- les opérateurs de calcul boolean : && || !
+
+- structures conditionnelles via les mots clés 
+ - if elseif else
+ - switch case default break 
+
+- fonctions si une variable existe / contient une valeur :
+ empty() isset()
+
+- fonctions pour vérifier les types :
+is_string() is_array() 	is_callable() is_integer() etc 
+
+A l'issue de ce Live, vous connaîtrez les calculs de base sur les booleans et utiliser des structures conditionnelles 
+
+Pré-requis : connaître les bases de PHP
+
+https://github.com/webdevproformation/php-studi
+

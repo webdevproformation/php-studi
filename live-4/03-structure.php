@@ -49,9 +49,10 @@ var_dump($isDisponible);
 
 // switch case
 
-$formation = "PHP";
+$formation = "Apache";
 
 switch( $formation ) {
+    
     case "PHP" : // == true 
         echo "j'ai les langages back" ; 
         break ;

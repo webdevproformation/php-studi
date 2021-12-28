@@ -1,0 +1,21 @@
+Live 5
+
+Les bases du langage Javascript - les boucles en javascript - niveau débutant
+
+Au cours de ce Live, nous allons présenter les boucles en PHP 
+
+Nous verrons ensemble :
+- les boucles 
+  - for(){}
+  - while(){}
+
+- parcourir des tableaux 
+  foreach(){}
+
+- boolean =>  empty() isset()
+
+A l'issue de ce Live, vous connaîtrez comment créer des boucles en PHP
+
+Pré-requis : connaître les bases de PHP 
+
+https://github.com/webdevproformation/php-studi

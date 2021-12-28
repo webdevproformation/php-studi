@@ -38,3 +38,9 @@ endforeach ;
         <?php endif ?>
     <?php endforeach ?>
 </ul>
+<!-- if ternaire -->
+<ul>
+    <?php foreach($matieres as $m) : ?>
+        <?php echo ($m == "php") ? "<li>je fais du php en live</li>" : "<li>$m</li>" ?>
+    <?php endforeach ?>
+</ul>

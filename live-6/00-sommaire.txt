@@ -1,0 +1,21 @@
+Live 6 
+
+Les bases du langage PHP - les fonctions en PHP - niveau débutant
+
+Au cours de ce Live, nous allons présenter comment créer des fonctions en PHP, leur attribuer des paramètres et les faire retourner des valeurs
+
+Nous verrons ensemble :
+- fonction declaration
+  - paramètre / argument
+  - return
+  - typage des paramètres  : https://www.php.net/manual/fr/language.types.declarations.php
+  - valeurs par défaut pour les paramètres
+  - arguments nommés PHP 8 : https://www.php.net/manual/fr/functions.arguments.php
+
+Exécuter des fonctions 
+
+A l'issue de ce Live, vous connaîtrez comment créer et utiliser des fonctions en PHP.
+
+Pré-requis : connaître les bases de PHP 
+
+https://github.com/webdevproformation/php-studi

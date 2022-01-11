@@ -1,0 +1,25 @@
+Live 7
+
+Les bases du langage PHP - les tableaux en PHP - niveau débutant
+
+Au cours de ce Live, nous allons présenter comment créer des tableaux en PHP et les opérations de base sur ce type de variable
+
+Nous verrons ensemble :
+- créer un tableau indexé 
+- créer des tableaux associatifs
+- créer des tableaux multidimensionnels
+- ajouter des valeurs dans un tableau : 
+  - array_push() , 
+  - array_unshift()
+- modifier des valeurs dans un tableau 
+	- via l'index
+	- via array_splice()
+- supprimer des éléments dans un tableau : array_splice() array_pop() array_shift() unset()
+
+- autres méthodes de tableaux : array_sum(), count() , current() , end() , in_array() array_key_exists
+
+A l'issue de ce Live, vous connaîtrez comment créer et manipuler un tableau.
+
+Pré-requis : connaître les bases de PHP 
+
+https://github.com/webdevproformation/php-studi

@@ -1,0 +1,19 @@
+Live 8
+
+Les bases du langage PHP - les supers globales - niveau débutant
+
+Au cours de ce Live, nous allons présenter les variables supers globales de PHP 
+
+Nous verrons ensemble :
+- $_SERVER
+- $_GET
+- $_POST
+- $_SESSION et session_start() / session_destroy()
+- $_FILE
+- $_COOKIE
+
+A l'issue de ce Live, vous connaîtrez les principales variables super globales de PHP  et comment les utiliser
+
+Pré-requis : connaître les bases de PHP 
+
+https://github.com/webdevproformation/php-studi

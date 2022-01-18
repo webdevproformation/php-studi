@@ -63,3 +63,15 @@ $liste = [
 
 var_dump(array_key_exists("telephone" , $liste)); // false
 var_dump(array_key_exists("tata" , $liste)); // true
+
+
+$t = [1,2];
+
+//array_splice($t , 1 , 0, "a");
+var_dump($t); 
+
+for($i = 0 ; $i < count($t) ; $i++){
+    $t[$i] .= " coucou"; 
+}
+
+var_dump($t); 

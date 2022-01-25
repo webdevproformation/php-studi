@@ -1,0 +1,35 @@
+Live 9
+
+Les bases du langage PHP - POO - FileSystem - niveau débutant
+
+Capacité de PHP de manipuler les systèmes de fichiers dans l'ordinateur
+=> créer des fichiers / dossiers 
+=> supprimer des fichiers / dossiers 
+=> récupérer le contenu de fichiers .php (organisation du code)
+=> utiliser du code => créer un fichier 
+
+Au cours de ce Live, nous allons présenter les fonctions natives PHP permettant de manipuler le FileSystem :
+
+Nous verrons ensemble :
+require()
+include()
+require_once()
+include_once()
+
+__FILE__ // constante de PHP 
+file_exists() // 
+file_get_contents($filenameWithPath);
+file_put_contents($filenameWithPath, $contenu)
+mkdir($tmpPath, 0755);
+unlink($filenameWithPath);
+
+dirname(__FILE__)
+basename($filenameWithPath)
+
+glob()
+
+A l'issue de ce Live, vous connaîtrez les principales fonctions de manipulation du FileSystem
+
+Pré-requis : connaître les bases de PHP 
+
+https://github.com/webdevproformation/php-studi

@@ -1,0 +1,29 @@
+Live 10
+
+Les bases du langage PHP - POO - Class / Objet et Héritage / class static - niveau débutant
+
+Au cours de ce Live, nous allons présenter les class et les objets Objet en PHP :
+
+Nous verrons ensemble :
+- créer une class en PHP
+- créer un objet en PHP , une instance de class 
+- propriété et méthode d'une class
+- encapsulation : portée private public protected
+- le mot clé $this
+
+
+- héritage d'une class à une autre
+- portée de variable protected 
+- surcharge de class
+- parent::
+
+Créer une class : 
+ - constante
+ - propriété statique
+ - méthode statique
+
+A l'issue de ce Live, vous connaîtrez comment créer une class, un objet et réaliser un héritage entre class .
+
+Pré-requis : connaître les bases de PHP 
+
+https://github.com/webdevproformation/php-studi

@@ -16,17 +16,20 @@ include()
 require_once()
 include_once()
 
-__FILE__ // constante de PHP 
 file_exists() // 
+is_dir()
 file_get_contents($filenameWithPath);
 file_put_contents($filenameWithPath, $contenu)
 mkdir($tmpPath, 0755);
 unlink($filenameWithPath);
-
-dirname(__FILE__)
-basename($filenameWithPath)
+rmdir()
+rename($from, $to); // $_FILES
 
 glob()
+
+__FILE__ // constante de PHP 
+dirname(__FILE__)
+basename($filenameWithPath)
 
 A l'issue de ce Live, vous connaîtrez les principales fonctions de manipulation du FileSystem
 

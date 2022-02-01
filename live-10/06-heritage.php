@@ -13,10 +13,11 @@ class B{
 //héritage copier méthode / propriété entre un class parent et ses class enfant (hérité)
 
 class CParent{
-    public $url = "http://studi.fr";
+    protected $url = "http://studi.fr";
 }
 
 class AEnfant extends CParent{
+    public $url = "toto"; 
     public function a(){}
 }
 

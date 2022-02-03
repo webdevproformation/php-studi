@@ -11,6 +11,9 @@ Nous verrons ensemble :
   - typage des paramètres  : https://www.php.net/manual/fr/language.types.declarations.php
   - valeurs par défaut pour les paramètres
   - arguments nommés PHP 8 : https://www.php.net/manual/fr/functions.arguments.php
+  - call_user_func_array () // call_user_func()
+
+  https://www.php.net/manual/en/function.call-user-func.php
 
 Exécuter des fonctions 
 

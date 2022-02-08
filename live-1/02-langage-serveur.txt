@@ -25,13 +25,17 @@ logiciel Chrome / Firefox reçoit les informations => mettre en forme
 // en ligne de commande : 
 sudo apt-get update
 sudo apt install apache2 php libapache2-mod-php mysql-server php-mysql
-sudo mkdir /var/www/html/test
-whoami 
+sudo mkdir /var/www/html/serveur
 
-sudo chown malik:malik /var/www/html/test
+// pour donner les droits de manière récursive sur tous les sous-répertoires de html
+sudo chown -R /var/www/html/serveur 
 sudo /etc/init.d/apache2 restart 
 
-http://localhost/test
+http://localhost/serveur
+
+// pour se simplifier la vie, dans son dossier personnel on peut taper la commande suivante
+// afin de créer un lien symbolique dans son rep
+ln -s /var/www/html/serveur ~
 
 // panneau de gestion de votre serveur 
 // dans le serveur XAMPP / MAMP .... => 
